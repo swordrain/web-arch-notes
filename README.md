@@ -247,7 +247,7 @@ C类故障 | 以上故障以外的其他故障 | 1
 * 单一功能通过集群规模实现伸缩 - 应用服务器集群、数据服务器集群
 
 ### 应用服务器集群的伸缩性设计
-重要手段 - 负载均衡
+重要手段 - 负载均衡 [参考](http://www.cnblogs.com/danbing/p/7459224.html)
 
 * HTTP重定向负载均衡 [参考](http://blog.csdn.net/cywosp/article/details/38014581)
 * DNS域名解析负载均衡 [参考](http://blog.csdn.net/cywosp/article/details/38017027)
