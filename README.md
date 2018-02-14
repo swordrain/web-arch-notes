@@ -16,7 +16,7 @@
 
 ### 大型网站架构演化发展历程
 
-![截图](https://www.cnblogs.com/han-1034683568/p/8423447.html)
+[参考](https://www.cnblogs.com/han-1034683568/p/8423447.html)
 
 1.初始阶段
 
